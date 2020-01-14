@@ -1,0 +1,2 @@
+repeat 4
+rectangle width 90 height 120 by width 20 height 20 end
